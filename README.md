@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcosilva2336/)
 
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosilva2336&show_icons=True&theme=tokyonight)
-![Marcos GitHub stat](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosilva&layout=compact&theme=tokyonight)
+![Marcos GitHub stat](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosilva2336&layout=compact&theme=tokyonight)
 
 
 ### Tecnologias
