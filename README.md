@@ -20,7 +20,7 @@
 <img align="center" alt="REACTJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-DD0031?style=for-the-badge&logo=openjdk&logoColor=black"/>
 <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-02569B?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img align="right" height="150em" alt="SQL" src="https://cdn.discordapp.com/attachments/775940076198297601/1124320480476811306/Design_sem_nome.gif"/>
+<img align="right" height="130em" alt="SQL" src="https://cdn.discordapp.com/attachments/775940076198297601/1124320480476811306/Design_sem_nome.gif"/>
 
 </div><br>
 
