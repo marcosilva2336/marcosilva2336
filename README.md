@@ -1,9 +1,11 @@
-### Olá! Eu sou João Marcos 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00fff0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+João+Marcos;Tenho+21+anos;+Sou+Estudante+de+ADS;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-marcos-4b950a15b)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcosilva2336/)
+<div align="center">
 
+  
 <div align="center">
 <a href="https://github.com/marcosilva2336">
 <img height="190em" src="https://github-readme-stats.vercel.app/api?username=marcosilva2336&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -26,4 +28,10 @@
 
 Sou apaixonado por tecnologia e estou estudando atualmente para me tornar um desenvolvedor full-stack. Acredito que a tecnologia é capaz de mudar o mundo e estou animado para fazer parte dessa transformação.
 
+<div align="center">
+  
+![GIF Animado](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZ2ZjM5dTNyejZkeDAwem4ybWs2OWk5bmF2aGxnaHIwdXp0cG5pOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/35ONGL2lEG8bL55iq8/giphy.gif)
+
+</div>
+  
 
